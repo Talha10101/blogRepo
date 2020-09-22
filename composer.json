@@ -1,0 +1,13 @@
+{
+    "name": "talha/blog",
+    "description": "this blog is your for testing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "talha bhatti",
+            "email": "talha.basharat@ccjk.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
